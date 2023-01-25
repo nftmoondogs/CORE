@@ -16,7 +16,7 @@ const Billing = () => (
   <h2 className={`${styles.heading5}`}>Moondogs are 
  <br className="sm:block hidden" /> more than just an avatar.</h2>
   <p className={`${styles.paragraph} pt-6 sm:pb-96 pt-0.5`}>
-  They're a collection of 5555 utility-enabled PFPs that feature a richly diverse and unique pool of rarity-powered traits. What's more, each Moondog unlocks private club membership and additional benefits the longer you hold them.
+  They're a collection of 5555 utility-enabled PFPs on CoreDAO Blockchain that feature a richly diverse and unique pool of rarity-powered traits. What's more, each Moondog unlocks private club membership and additional benefits the longer you hold them.
   </p>
 
 
