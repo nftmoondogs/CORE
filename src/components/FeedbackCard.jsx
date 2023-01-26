@@ -32,7 +32,7 @@ const FeedbackCard = ({ content, name, title, img}) => (
             </summary>
 
             <span>
-          We will announce the mint date soon until then you must try to engage with our socials as much as possible, Our community managers are always looking out for active members, If you are active then they will provide you a WL Spot.
+          Our mint date is on 15th February until then you must try to engage with our socials as much as possible, Our community managers are always looking out for active members, If you are active then they will provide you a WL Spot.
             </span>
           </details>
 
@@ -43,7 +43,7 @@ const FeedbackCard = ({ content, name, title, img}) => (
             </summary>
 
             <span>
-            To be Announced.
+            The official minting date is 15th February and the mint time will be Announced on 14th February on our <a href="https://twitter.com/nftmoondogs">twitter</a>
             </span>
           </details>
 
