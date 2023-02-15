@@ -21,7 +21,7 @@ const FeedbackCard = ({ content, name, title, img}) => (
             </summary>
 
             <span>
-            Yes, but the Moondogs channels within Discord are NFT-gated (you must hold a Moondog to enter). Once inside, you'll have access to private Moondogs channels with information about community events, airdrop raffles, wl raffles, and more.
+            Yes 
             </span>
           </details>
 
@@ -43,18 +43,7 @@ const FeedbackCard = ({ content, name, title, img}) => (
             </summary>
 
             <span>
-            The official minting date is 15th February and the mint time will be Announced on 14th February on our <a href="https://twitter.com/nftmoondogs">twitter</a>
-            </span>
-          </details>
-
-
-<details class="mb-4 pt-5 border-t-[1px] border-t-[#3F3E45]">
-            <summary class="font-rav font-semibold text-goldenyellow rounded-md py-2 px-4">
-            What are the maximum mints per wallet?
-            </summary>
-
-            <span>
-            To be Announced.
+            The official minting date is 15th February
             </span>
           </details>
 

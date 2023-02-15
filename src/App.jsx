@@ -28,7 +28,6 @@ const App = () => (
           <Stats /> 
            <Testimonials />  
            <CardDeal />   
-           <WlChecker />
            <CTA />           
            
           </div>
