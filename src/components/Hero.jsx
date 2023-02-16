@@ -33,7 +33,11 @@ const Hero = () => {
         </div>
 
         <div class="flex mt-4 space-x-3 md:mt-6">
-        <a href="https://mint.woofsite.com/" target="_blank" rel="noreferrer" class=" w-[240px] items-center py-2 px-4 text-sm font-medium text-center text-white bg-yellow-700 rounded-lg hover:bg-yellow-800 focus:ring-4 focus:outline-none focus:ring-yellow-300 dark:bg-yellow-600 dark:hover:bg-yellow-700 dark:focus:ring-yellow-800">Mint Now</a>
+        <a href="https://t.me/+VHe4vxSP0kA0MmFl" target="_blank" rel="noreferrer" class=" w-[240px] items-center py-2 px-4 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Telegram</a>
+        </div>
+
+        <div class="flex mt-4 space-x-3 md:mt-6">
+        <a href="https://app.youngparrotnft.com/core/collections/moondogs#Items" target="_blank" rel="noreferrer" class=" w-[240px] items-center py-2 px-4 text-sm font-medium text-center text-white bg-yellow-700 rounded-lg hover:bg-yellow-800 focus:ring-4 focus:outline-none focus:ring-yellow-300 dark:bg-yellow-600 dark:hover:bg-yellow-700 dark:focus:ring-yellow-800">Buy from Young Parrots</a>
         </div>
 
        
