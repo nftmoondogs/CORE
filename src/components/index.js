@@ -10,6 +10,7 @@ import Testimonials from "./Testimonials";
 import Hero from "./Hero";
 import WlChecker from "./WlChecker";
 import Navigation from "./Navigation";
+import woof  from "./woof";
 
 
 export {
@@ -25,6 +26,7 @@ export {
   Hero,
   Navigation,
   WlChecker,
+  woof,
 };
 
 

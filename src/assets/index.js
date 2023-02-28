@@ -33,6 +33,7 @@ import paw from "./paw.png";
 import profile from "./profile.png";
 import Core from "./Core.png";
 import yp from "./yp.png";
+import coin from "./coin.png"
 
 
 
@@ -72,4 +73,5 @@ export {
   profile,
   Core,
   yp,
+  coin,
 };
