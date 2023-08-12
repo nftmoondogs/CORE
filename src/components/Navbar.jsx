@@ -9,7 +9,7 @@ const Navbar = () => {
 
 
 <h1 className="pt-2 font-sydney font-semibold ss:text-[75px] text-[35px] text-creamgreen ss:leading-[80.8px] leading-[30px] drop-shadow-2xl">
-          Moondogs
+          WOOF LABS
         </h1>
 
 
