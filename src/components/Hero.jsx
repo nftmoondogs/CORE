@@ -24,7 +24,7 @@ const Hero = () => {
        
 
         <div class="flex mt-4 space-x-3 md:mt-6">
-        <a href="https://twitter.com/nftmoondogs" target="_blank" rel="noreferrer" class=" w-[240px] items-center py-2 px-4 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Twitter</a>
+        <a href="https://twitter.com/wooflabs" target="_blank" rel="noreferrer" class=" w-[240px] items-center py-2 px-4 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Twitter</a>
         </div>
         
         
@@ -35,17 +35,17 @@ const Hero = () => {
         <div class="flex mt-4 space-x-3 md:mt-6">
         <a href="https://t.me/+VHe4vxSP0kA0MmFl" target="_blank" rel="noreferrer" class=" w-[240px] items-center py-2 px-4 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Telegram</a>
         </div>
-
-        <div class="flex mt-4 space-x-3 md:mt-6">
-        <a href="https://app.youngparrotnft.com/core/collections/moondogs#Items" target="_blank" rel="noreferrer" class=" w-[240px] items-center py-2 px-4 text-sm font-medium text-center text-white bg-yellow-700 rounded-lg hover:bg-yellow-800 focus:ring-4 focus:outline-none focus:ring-yellow-300 dark:bg-yellow-600 dark:hover:bg-yellow-700 dark:focus:ring-yellow-800">Buy Moondogs from Young Parrots</a>
+       
+       <div class="flex mt-4 space-x-3 md:mt-6">
+        <a href="https://shadowswap.xyz/swap?outputCurrency=0x5C44d3D2312AbA4d5F2406A98Bf374Bc76455092&inputCurrency=CORE" target="_blank" rel="noreferrer" class=" w-[240px] items-center py-2 px-4 text-sm font-medium text-center text-white bg-yellow-700 rounded-lg hover:bg-yellow-800 focus:ring-4 focus:outline-none focus:ring-yellow-300 dark:bg-yellow-600 dark:hover:bg-yellow-700 dark:focus:ring-yellow-800">Buy WOOF on ShadowSwap</a>
         </div>
 
         <div class="flex mt-4 space-x-3 md:mt-6">
         <a href="https://icecreamswap.com/swap?chainId=1116&outputCurrency=0x5C44d3D2312AbA4d5F2406A98Bf374Bc76455092&inputCurrency=CORE" target="_blank" rel="noreferrer" class=" w-[240px] items-center py-2 px-4 text-sm font-medium text-center text-white bg-yellow-700 rounded-lg hover:bg-yellow-800 focus:ring-4 focus:outline-none focus:ring-yellow-300 dark:bg-yellow-600 dark:hover:bg-yellow-700 dark:focus:ring-yellow-800">Buy WOOF on IceCreamSwap</a>
         </div>
-       
-       <div class="flex mt-4 space-x-3 md:mt-6">
-        <a href="https://shadowswap.xyz/swap?outputCurrency=0x5C44d3D2312AbA4d5F2406A98Bf374Bc76455092&inputCurrency=CORE" target="_blank" rel="noreferrer" class=" w-[240px] items-center py-2 px-4 text-sm font-medium text-center text-white bg-yellow-700 rounded-lg hover:bg-yellow-800 focus:ring-4 focus:outline-none focus:ring-yellow-300 dark:bg-yellow-600 dark:hover:bg-yellow-700 dark:focus:ring-yellow-800">Buy WOOF on ShadowSwap</a>
+
+        <div class="flex mt-4 space-x-3 md:mt-6">
+        <a href="https://www.openwaters.uk/" target="_blank" rel="noreferrer" class=" w-[240px] items-center py-2 px-4 text-sm font-medium text-center text-white bg-yellow-700 rounded-lg hover:bg-yellow-800 focus:ring-4 focus:outline-none focus:ring-yellow-300 dark:bg-yellow-600 dark:hover:bg-yellow-700 dark:focus:ring-yellow-800">OpenWaters NFT Marketplace</a>
         </div>
 
     </div>

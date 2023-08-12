@@ -7,7 +7,7 @@ const Footer = () => (
    
     <div className="w-full flex justify-between items-center md:flex-row flex-col pt-6 pb-15 ">
       <p className="font-poppins font-normal text-center text-[18px] leading-[27px] text-white pb-6">
-        Copyright Ⓒ 2023 Moondogs. All Rights Reserved.
+        Copyright Ⓒ 2023 WOOFLabs. All Rights Reserved.
       </p>
 
       <div className="flex flex-row md:mt-0 mt-6 pb-6">
