@@ -21,12 +21,10 @@ const Hero = () => {
     <div class="flex flex-col items-center pb-10">
         <img class="mb-3 w-24 h-24 rounded-full shadow-lg" src={profile} alt="Bonnie image"/>
         
-       
 
         <div class="flex mt-4 space-x-3 md:mt-6">
         <a href="https://twitter.com/wooflabs" target="_blank" rel="noreferrer" class=" w-[240px] items-center py-2 px-4 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Twitter</a>
         </div>
-        
         
         <div class="flex mt-4 space-x-3 md:mt-6">
         <a href="https://discord.gg/xFSkcRMtuR" target="_blank" rel="noreferrer" class=" w-[240px] items-center py-2 px-4 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Discord</a>
@@ -37,15 +35,27 @@ const Hero = () => {
         </div>
        
        <div class="flex mt-4 space-x-3 md:mt-6">
-        <a href="https://shadowswap.xyz/swap?outputCurrency=0x5C44d3D2312AbA4d5F2406A98Bf374Bc76455092&inputCurrency=CORE" target="_blank" rel="noreferrer" class=" w-[240px] items-center py-2 px-4 text-sm font-medium text-center text-white bg-yellow-700 rounded-lg hover:bg-yellow-800 focus:ring-4 focus:outline-none focus:ring-yellow-300 dark:bg-yellow-600 dark:hover:bg-yellow-700 dark:focus:ring-yellow-800">Buy WOOF on ShadowSwap</a>
+        <a href="https://shadowswap.xyz/swap?outputCurrency=0x5C44d3D2312AbA4d5F2406A98Bf374Bc76455092&inputCurrency=CORE" target="_blank" rel="noreferrer" class=" w-[240px] items-center py-2 px-4 text-sm font-medium text-center text-white bg-yellow-700 rounded-lg hover:bg-violet-800  dark:bg-violet-600">Buy WOOF on ShadowSwap</a>
         </div>
 
         <div class="flex mt-4 space-x-3 md:mt-6">
-        <a href="https://icecreamswap.com/swap?chainId=1116&outputCurrency=0x5C44d3D2312AbA4d5F2406A98Bf374Bc76455092&inputCurrency=CORE" target="_blank" rel="noreferrer" class=" w-[240px] items-center py-2 px-4 text-sm font-medium text-center text-white bg-yellow-700 rounded-lg hover:bg-yellow-800 focus:ring-4 focus:outline-none focus:ring-yellow-300 dark:bg-yellow-600 dark:hover:bg-yellow-700 dark:focus:ring-yellow-800">Buy WOOF on IceCreamSwap</a>
+        <a href="https://icecreamswap.com/swap?chainId=1116&outputCurrency=0x5C44d3D2312AbA4d5F2406A98Bf374Bc76455092&inputCurrency=CORE" target="_blank" rel="noreferrer" class=" w-[240px] items-center py-2 px-4 text-sm font-medium text-center text-white bg-yellow-700 rounded-lg hover:bg-pink-600  dark:bg-pink-500">Buy WOOF on IceCreamSwap</a>
         </div>
 
         <div class="flex mt-4 space-x-3 md:mt-6">
-        <a href="https://www.openwaters.uk/" target="_blank" rel="noreferrer" class=" w-[240px] items-center py-2 px-4 text-sm font-medium text-center text-white bg-yellow-700 rounded-lg hover:bg-yellow-800 focus:ring-4 focus:outline-none focus:ring-yellow-300 dark:bg-yellow-600 dark:hover:bg-yellow-700 dark:focus:ring-yellow-800">OpenWaters NFT Marketplace</a>
+        <a href="https://archerswap.finance/swap" target="_blank" rel="noreferrer" class=" w-[240px] items-center py-2 px-4 text-sm font-medium text-center text-white bg-yellow-700 rounded-lg hover:bg-orange-500  dark:bg-orange-400">Buy WOOF on ArcherSwap</a>
+        </div>
+
+        <div class="flex mt-4 space-x-3 md:mt-6">
+        <a href="https://www.sushi.com/swap?toChainId=1116&toCurrency=0x5C44d3D2312AbA4d5F2406A98Bf374Bc76455092" target="_blank" rel="noreferrer" class=" w-[240px] items-center py-2 px-4 text-sm font-medium text-center text-white bg-yellow-700 rounded-lg hover:bg-fuchsia-500  dark:bg-fuchsia-400">Buy WOOF on SushiSwap</a>
+        </div>
+
+        <div class="flex mt-4 space-x-3 md:mt-6">
+        <a href="https://scan.coredao.org/token/0x5c44d3d2312aba4d5f2406a98bf374bc76455092" target="_blank" rel="noreferrer" class=" w-[240px] items-center py-2 px-4 text-sm font-medium text-center text-white bg-yellow-700 rounded-lg hover:bg-slate-500  dark:bg-slate-400">WOOF Official Contract</a>
+        </div>
+
+        <div class="flex mt-4 space-x-3 md:mt-6">
+        <a href="https://www.openwaters.uk/" target="_blank" rel="noreferrer" class=" w-[240px] items-center py-2 px-4 text-sm font-medium text-center text-white bg-yellow-700 rounded-lg hover:bg-cyan-700  dark:bg-cyan-500">OpenWaters NFT Marketplace</a>
         </div>
 
     </div>
