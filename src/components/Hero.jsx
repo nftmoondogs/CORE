@@ -33,7 +33,11 @@ const Hero = () => {
         <div class="flex mt-4 space-x-3 md:mt-6">
         <a href="https://t.me/+VHe4vxSP0kA0MmFl" target="_blank" rel="noreferrer" class=" w-[240px] items-center py-2 px-4 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Telegram</a>
         </div>
-       
+
+        <div class="flex mt-4 space-x-3 md:mt-6">
+        <a href="https://www.woofswap.co/swap" target="_blank" rel="noreferrer" class=" w-[240px] items-center py-2 px-4 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Buy WOOF on WOOFSwap</a>
+        </div>
+
        <div class="flex mt-4 space-x-3 md:mt-6">
         <a href="https://shadowswap.xyz/swap?outputCurrency=0x5C44d3D2312AbA4d5F2406A98Bf374Bc76455092&inputCurrency=CORE" target="_blank" rel="noreferrer" class=" w-[240px] items-center py-2 px-4 text-sm font-medium text-center text-white bg-yellow-700 rounded-lg hover:bg-violet-800  dark:bg-violet-600">Buy WOOF on ShadowSwap</a>
         </div>
@@ -44,10 +48,6 @@ const Hero = () => {
 
         <div class="flex mt-4 space-x-3 md:mt-6">
         <a href="https://archerswap.finance/swap" target="_blank" rel="noreferrer" class=" w-[240px] items-center py-2 px-4 text-sm font-medium text-center text-white bg-yellow-700 rounded-lg hover:bg-orange-500  dark:bg-orange-400">Buy WOOF on ArcherSwap</a>
-        </div>
-
-        <div class="flex mt-4 space-x-3 md:mt-6">
-        <a href="https://www.sushi.com/swap?toChainId=1116&toCurrency=0x5C44d3D2312AbA4d5F2406A98Bf374Bc76455092" target="_blank" rel="noreferrer" class=" w-[240px] items-center py-2 px-4 text-sm font-medium text-center text-white bg-yellow-700 rounded-lg hover:bg-fuchsia-500  dark:bg-fuchsia-400">Buy WOOF on SushiSwap</a>
         </div>
 
         <div class="flex mt-4 space-x-3 md:mt-6">
